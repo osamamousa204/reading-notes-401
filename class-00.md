@@ -9,13 +9,13 @@
 5. Replace the comments or pseudo-code with real code.(plan)
 6. Optimize the real code.
 
-#### another acrticle or steps for problem solving:
+#### another article or steps for problem-solving:
 1. Understand and explain the problem to others
 2. plan 
 3. Divide
 4. Stuck? 
     * Debug
-    * Reassess and look to the problem frpm different perspective
+    * Reassess and look to the problem from different perspective
     * Research(google)
 5. Practice Practice Practice
 # Pretend Your Time is Worth $1,000/Hour and You’ll Become 100x More Productive
