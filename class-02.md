@@ -35,7 +35,7 @@ The constructor method is called each time the class object is initialized.
 
 ### Methods
 
-The constructor method is special, it is where you initialize properties, it is called automatically when a class is initiated, and it has to have the exact name "constructor", in fact, if i do not have a constructor method, JavaScript will add an invisible and empty constructor method.
+The constructor method is special, it is where we initialize properties, it is called automatically when a class is initiated, and it has to have the exact name "constructor", in fact, if i do not have a constructor method, JavaScript will add an invisible and empty constructor method.
 
 ### Inheritance
 To create a class inheritance, use the `extends` keyword.
