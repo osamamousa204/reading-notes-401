@@ -17,6 +17,7 @@
     - In PostgreSQL, the database can be defined earlier based on the requirements. The information or data can be stored in separate tables accordingly. PostgreSQL also provides security based on the role of the user. The permissions can be granted and revoked on the users as well as groups.
 * What is Mongoose and why do we need it?
     -Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It manages relationships between data, provides schema validation, and is used to translate between objects in code and the representation of those objects in MongoDB.
+* Define three related pieces of data in a possible application. An example for a store application might be Product, Category and Department. Describe the constraints and rules on each piece of data and how you would relate these pieces to each other. For example, each Product has a Category and belongs in a Department.
 
 ### What is :
 
