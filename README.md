@@ -35,6 +35,8 @@ Read-14                              | [class-14](https://osamamousa204.github.i
 -------------------------------------|-------------------------------------------
 Read-15                              | [class-15](https://osamamousa204.github.io/reading-notes-401/class-15)
 -------------------------------------|-------------------------------------------
-Read-16                              | [class-15](https://osamamousa204.github.io/reading-notes-401/class-16)
+Read-16                              | [class-16](https://osamamousa204.github.io/reading-notes-401/class-16)
+-------------------------------------|-------------------------------------------
+Read-16                              | [class-17](https://osamamousa204.github.io/reading-notes-401/class-17)
 
  
