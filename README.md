@@ -43,7 +43,7 @@ Read-18                              | [class-18](https://osamamousa204.github.i
 -------------------------------------|-------------------------------------------
 Read-19                              | [class-19](https://osamamousa204.github.io/reading-notes-401/class-19)
 -------------------------------------|-------------------------------------------
-Read-20                              | [class-19](https://osamamousa204.github.io/reading-notes-401/class-20)
+Read-20                              | [class-20](https://osamamousa204.github.io/reading-notes-401/class-20)
 
 
  
