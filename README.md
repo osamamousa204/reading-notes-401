@@ -48,6 +48,8 @@ Read-20                              | [class-20](https://osamamousa204.github.i
 Read-21                              | [class-21](https://osamamousa204.github.io/reading-notes-401/class-21)
 -------------------------------------|-------------------------------------------
 Read-22                              | [class-22](https://osamamousa204.github.io/reading-notes-401/class-22)
+-------------------------------------|-------------------------------------------
+Read-23                              | [class-23](https://osamamousa204.github.io/reading-notes-401/class-23)
 
 
  
