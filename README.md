@@ -50,6 +50,10 @@ Read-21                              | [class-21](https://osamamousa204.github.i
 Read-22                              | [class-22](https://osamamousa204.github.io/reading-notes-401/class-22)
 -------------------------------------|-------------------------------------------
 Read-23                              | [class-23](https://osamamousa204.github.io/reading-notes-401/class-23)
+-------------------------------------|-------------------------------------------
+Read-24                              | [class-24](https://osamamousa204.github.io/reading-notes-401/class-24)
+-------------------------------------|-------------------------------------------
+Read-25                              | [class-25](https://osamamousa204.github.io/reading-notes-401/class-25)
 
 
  
