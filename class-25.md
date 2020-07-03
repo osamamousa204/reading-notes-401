@@ -1,39 +1,47 @@
-# Which Questions do you Ask in Retrospectives?
+# Hooks
+React hooks allow to to easily create and manage state in a functional component.
 
-Asking questions is a technique that is easy to learn, but the effectiveness depends on the questions that you ask to the team.
+Hooks are JavaScript functions, but they impose additional rules:
 
-**Four Key Questions**
+* Hooks must be named with a use prefix (i.e. useFishingPole)
+* Only call Hooks at the top level. Don’t call Hooks inside loops, conditions, or nested functions.
+* Only call Hooks from React function components. Don’t call Hooks from regular JavaScript functions. (There is just one other valid place to call Hooks — your own custom Hooks. We’ll learn about them in a moment.)
 
-When I start with a team that is new to retrospectives, I often use The four key questions. These questions come from the book Project Retrospectives: A Handbook for Team Reviews, by Norm Kerth. The questions are:
+**Built In Hooks**
 
-1. What did we do well, that if we don’t discuss we might forget?
-2. What did we learn?
-3. What should we do differently next time?
-4. What still puzzles us?
+`useState()`
 
+Returns a stateVariable and setterFunction for you to use to manage state in a functional component
 
-**Valuable Retrospective Questions**
-Working with agile and non-agile teams, I’ve been doing project evaluations, audits, assessments using the CMMI and the People-CMM, retrospectives, and many other kinds of feedback sessions. Below are some questions that I often use, that have proved to help teams finding things that they could improve upon:
+In this example …
 
-* What helps you to be successful as a team?
-* How did you do this sprint?
-* Where and when did it go wrong in this sprint?
-* What do you expect, from who?
-* Which tools or techniques proved to be useful? Which not?
-* What is your biggest impediment?
-* If you could change 1 thing, what would it be?
-* What caused the problems that you had in this sprint?
-* What’s keeping you awake at night?
-* Which things went smoothly in this sprint? Which didn’t?
+* clicks is the state variable, which will store the number of clicks
+* setClicks is a function that is called to change the value of clicks
+How does this work?
 
-**Asking why?**
-One of the most valuable questions that I have experienced in retrospectives is asking why? Some examples are:
+* by convention, we use set + statevariable (camel cased) to name this function
 
-* Why did you do it like this?
-* Why did this (or didn’t this) work for you?
-* Why do you consider something to be important?
-* Why do you feel this way?
-* Why did you decide to work together on this?
+* `useState()` takes a single param, which is the initial value to assign to the state variable
 
+* You can call your setter function .. i.e. setClicks(7) and the attribute value you call the function with is used as the new value for the state variable.
 
+```
+ import React from 'react';
+ import { useState } from 'react';
+
+ function Counter() {
+   const [clicks, setClicks] = useState(0);
+
+   return (
+     <div>
+       <h2>Button has been clicked {clicks} time(s)</h2>
+       <button type="button" onClick={() => setClicks(clicks + 1)}>
+         Update Count
+       </button>
+     </div>
+   );
+ }
+
+ export default Counter;
+ ```
 [Home Page](https://osamamousa204.github.io/reading-notes-401/)
