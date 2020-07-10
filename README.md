@@ -54,6 +54,13 @@ Read-23                              | [class-23](https://osamamousa204.github.i
 Read-24                              | [class-24](https://osamamousa204.github.io/reading-notes-401/class-24)
 -------------------------------------|-------------------------------------------
 Read-25                              | [class-25](https://osamamousa204.github.io/reading-notes-401/class-25)
-
-
- 
+-------------------------------------|-------------------------------------------
+Read-25                              | [class-25](https://osamamousa204.github.io/reading-notes-401/class-26)
+-------------------------------------|-------------------------------------------
+Read-25                              | [class-25](https://osamamousa204.github.io/reading-notes-401/class-27)
+-------------------------------------|-------------------------------------------
+Read-25                              | [class-25](https://osamamousa204.github.io/reading-notes-401/class-28)
+-------------------------------------|-------------------------------------------
+Read-25                              | [class-25](https://osamamousa204.github.io/reading-notes-401/class-29)
+-------------------------------------|-------------------------------------------
+Read-25                              | [class-25](https://osamamousa204.github.io/reading-notes-401/class-35)
