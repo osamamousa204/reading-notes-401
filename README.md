@@ -55,12 +55,12 @@ Read-24                              | [class-24](https://osamamousa204.github.i
 -------------------------------------|-------------------------------------------
 Read-25                              | [class-25](https://osamamousa204.github.io/reading-notes-401/class-25)
 -------------------------------------|-------------------------------------------
-Read-25                              | [class-25](https://osamamousa204.github.io/reading-notes-401/class-26)
+Read-26                              | [class-26](https://osamamousa204.github.io/reading-notes-401/class-26)
 -------------------------------------|-------------------------------------------
-Read-25                              | [class-25](https://osamamousa204.github.io/reading-notes-401/class-27)
+Read-27                              | [class-27](https://osamamousa204.github.io/reading-notes-401/class-27)
 -------------------------------------|-------------------------------------------
-Read-25                              | [class-25](https://osamamousa204.github.io/reading-notes-401/class-28)
+Read-28                              | [class-28](https://osamamousa204.github.io/reading-notes-401/class-28)
 -------------------------------------|-------------------------------------------
-Read-25                              | [class-25](https://osamamousa204.github.io/reading-notes-401/class-29)
+Read-29                              | [class-29](https://osamamousa204.github.io/reading-notes-401/class-29)
 -------------------------------------|-------------------------------------------
-Read-25                              | [class-25](https://osamamousa204.github.io/reading-notes-401/class-35)
+Read-35                              | [class-35](https://osamamousa204.github.io/reading-notes-401/class-35)
