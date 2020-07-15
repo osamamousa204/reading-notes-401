@@ -24,3 +24,4 @@ deletePost(state, action) {} } })
 ## Resources:
 - https://redux-toolkit.js.org/
 - https://github.com/erikras/ducks-modular-redux
+[Home Page](https://osamamousa204.github.io/reading-notes-401/)
